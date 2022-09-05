@@ -1,0 +1,106 @@
+.icon-bar {
+    width: 100%;
+    text-align: center;
+    background-color: #555;
+    overflow: auto;
+}
+
+.icon-bar a {
+    width: 20%;
+    padding: 12px 0;
+    float: left;
+    transition: all 0.3s ease;
+    color: white;
+    font-size: 25px;
+    text-decoration: none;
+}
+
+.icon-bar a:hover {
+    background-color: #000;
+}
+
+.active {
+    background-color: #48d1cc !important;
+}
+
+.card{
+    text-align: center ;
+}
+
+.button{
+    background-color: gray;
+    border: 2px solid black;
+    border-radius: 8px;
+    color: black;
+}
+
+#color{
+    color: #48d1cc;
+}
+
+#copy{
+    background-color: gray;
+    border: 2px solid black;
+    border-radius: 8px;
+    color: black;
+    padding: 5px;
+}
+
+
+
+
+
+
+#toggle {
+    background-color: gray;
+    width: 140px;
+    height: 43px;
+    border-radius: 30px;
+    border: 2px solid #48d1cc;
+    margin: 10px 1355px;
+    cursor: pointer;
+}
+
+#circle {
+    width: 38px;
+    height: 38px;
+    background-color:#48d1cc;
+    border-radius: 50%;
+    margin-top: 0px;
+    transition-duration: 0.1s;
+    margin-left: 1px;
+}
+
+.color-white {
+    color:white;
+}
+
+.bck-color-black {
+    background-color: black;
+}
+
+.night{
+    padding-left: 1374px;
+    color: #48d1cc;
+    text-decoration-color: black;
+   text-decoration: underline;
+}
+
+
+.card-body{
+    background-color: #48d1cc;
+}
+
+.hr{
+    background-color: #48d1cc;
+}
+
+
+
+
+
+
+
+
+
+
